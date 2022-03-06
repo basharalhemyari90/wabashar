@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "Ranosh RBWA v1.0.1",
+      "version": "Ranosh RBWA v1.0.0",
       "code": 11,
       "url": "https://basharalhemyari.blogspot.com/",
       "changelog": "- Instagram hHome UI - Custom Title - Fix Problems"
