@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v1.0.0",
+      "version": "Ranosh YOWA v1.0.0",
       "code": 41,
-      "url": "https://bit.ly/DELTA401",
+      "url": "https://basharalhemyari.blogspot.com/",
       "changelog": "- Instagram hHome UI - Custom Title - Fix Problems"
     }
   ]
