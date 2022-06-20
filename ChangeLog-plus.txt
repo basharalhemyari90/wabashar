@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "Ranosh RBWA v1.0.0",
-      "code": 1,
-      "url": "https://basharalhemyari.blogspot.com/",
+      "version": "Ranosh RBWA v2.0.0",
+      "code": 2,
+      "url": "https://www.mediafire.com/file/nghvrt8wurfgor2/RanoshWA_Girls_V2.00.apk/file",
       "changelog": "- Instagram home UI - Custom Title - Fix Problems"
     }
   ]
