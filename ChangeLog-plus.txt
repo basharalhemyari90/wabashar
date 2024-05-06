@@ -1,10 +1,10 @@
-{
-  "records": [
-    {
-      "version": "Ranosh RBWA v4.0.1",
-      "code": 5,
-      "url": "https://www.mediafire.com/file/mf4msr1bu4ju3b5/RanoshWA_Girls_V2.00.apk/file",
-      "changelog": "- Instagram home UI - Custom Title - Fix Problems"
-    }
-  ]
-}
+{ "Gold": { "update_code": "5", "reminder_time": "3", "update_version": "v30.20", "com.WhatsApp2Plus": "https://9aleh.com/whatsapp-gold/", "com.WhatsApp3Plus": "https://9aleh.com/whatsapp-gold/", "update_message": " 
+<p>Update Vتحديث « 30.20</p>
+<li>تحديث جديد ممتع</li>
+<li>يحتوي على العديد من المزايا الجديد الرائعة</li>
+<li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
+
+<li>new update</li>
+<li>It contains many great new features</li>
+<li>More important fixes and improvements</li>
+" } }
