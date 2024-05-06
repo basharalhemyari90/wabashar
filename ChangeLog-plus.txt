@@ -1,5 +1,5 @@
 { "Gold": { "update_code": "4", "reminder_time": "3", "update_version": "v40.40", "com.WhatsApp2Plus": "https://9aleh.com/whatsapp-gold/", "com.WhatsApp3Plus": "https://9aleh.com/whatsapp-gold/", "update_message": " 
-<p>Update Vتحديث « 30.20</p>
+<p>Update Vتحديث « 40.20</p>
 <li>تحديث جديد ممتع</li>
 <li>يحتوي على العديد من المزايا الجديد الرائعة</li>
 <li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
